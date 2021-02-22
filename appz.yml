@@ -23,6 +23,6 @@ monitor:
 
 properties:
     page_title: "React-bootstrap + nodejs-express App"
-    #site_url: "https://hellonodejs.038d6d26.lowtouch.cloud/"
+    site_url: "https://hellonodejs.038d6d26.lowtouch.cloud/"
     revision: 25
     page_color: Blue
